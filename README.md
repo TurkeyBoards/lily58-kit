@@ -1,2 +1,2 @@
-# CRKT-Kit
-Turkey Corne Keyboard Kit
+# Lily58-Kit
+Turkey Lily58 Keyboard Kit
