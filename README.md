@@ -1,3 +1,4 @@
+![Turkey Lily58 Kit Keyboard](/images/Turkey-Lily58-Kit.png)
 # Turkey Lily58 Kit Keyboard
 The Lily58 is a split ergonomic keyboard designed for comfort, customization, and productivity. With its 58-key column-staggered layout, the Lily58 offers a more natural typing position, reducing strain on your wrists and fingers while giving you extra keys compared to smaller 40% split boards like the Corne. This makes it a favorite for those who want ergonomic benefits and want to keep a number row.
 
